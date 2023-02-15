@@ -5,6 +5,7 @@
 First of all, when you use this json collection, you should know the concept of this json collection:
 ### Our goal is 9999 supplies!
 
+[Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
 
 This json description:
 A total of 3 json collections are used in rotation.
