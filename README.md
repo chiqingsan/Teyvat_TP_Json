@@ -17,16 +17,16 @@ More conveniently, you can decompress this json collection to the file directory
 
 
 The number of this json collection:
-Each collection has a total of 1800+ points, and the average time is about 6 hours, which includes all the materials of the whole Tiwat (because the scarlet hydrangea cannot be collected automatically, it is not included).
+Each collection has a total of 1800+ points, and the average time is about 6 hours, which includes all the materials of the whole Teyvat (because the scarlet hydrangea cannot be collected automatically, it is not included).
 
 After running this json collection completely, you can get:
 1. A number of materials dropped by all monsters in Tivat Continent
 2. Several plant ingredients + breakthrough material + crystal butterfly
-3.500+ animal meat
-4.500+ poultry meat
-5.300~400 crystal ore + amethyst block
+3. 500+ animal meat
+4. 500+ poultry meat
+5. 300~400 crystal ore + amethyst block
 6. 100+ holy relic dog food
-7.  25w Mora
+7. 25w Mora
 ...wait wait wait
 
 
