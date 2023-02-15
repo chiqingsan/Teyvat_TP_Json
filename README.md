@@ -6,9 +6,6 @@ First of all, when you use this json collection, you should know the concept of 
 ### Our goal is 9999 supplies!
 
 
-[Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
-
-
 This json description:
 A total of 3 json collections are used in rotation.
 First day using teleports1,
@@ -69,6 +66,8 @@ There are a total of 150 points for holy relics, which are divided into 3 days t
 
 Note: If you encounter problems, or empty TP points, please find @持青伞#6764 in the discord group for feedback or give feedback in the qq group 1056308869
 
+
+[Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
 
 Thanks to @Xcating#6804 for his help with this json point!
 
