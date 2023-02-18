@@ -8,6 +8,7 @@ First of all, when you use this json collection, you should know the concept of 
 
 This json description:
 A total of 3 json collections are used in rotation.
+
 First day using teleports1.
 
 The next day using teleports2.
