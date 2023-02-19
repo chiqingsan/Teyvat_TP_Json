@@ -36,13 +36,19 @@ After running this json collection completely, you can get:
 
 
 About the cfg configuration of this json:
+
 invincible mode
+
 Monster adsorption ≥ 40m
+
 Auto Destroy Objects - 10m - Tick Minerals and Plants
-Automatic pickup 40m-interval 230 (turn off manual simulation, turn off the pickup option when canceling the upper limit)
-              Tick the treasure chest + investigation point
+
+Automatic pickup 40m-interval 230 (turn off manual simulation, turn off the pickup option when canceling the upper limit) and Tick the treasure chest + investigation point
+
 Killing Aura - Instant Death Mode
+
 Automatic transmission - the interval is 12~20s
+
 
 Note: decompress the cfg.json in the compressed package to the directory of ak/ac/bk, and choose to overwrite to realize the fool-like one-key configuration (the menu call-out key is F12)
 
