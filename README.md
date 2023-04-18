@@ -1,5 +1,7 @@
 # Teyvat_TP_Json
 
+ Click on the star collection on the right to make it easier to find, thank you ~ 
+
 ###
 
 First of all, when you use this json collection, you should know the concept of this json collection:
