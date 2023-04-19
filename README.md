@@ -71,6 +71,10 @@ Note: If you encounter problems, or empty TP points, please find @持青伞#6764
 
 [Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
 
+
 Thanks to @Xcating#6804 for his help with this json point!
 
+Thanks to @小老弟(dc:honeydot#5793) for his help with this json point!
+
 Thanks to @傻逼#1867 for the help of the deduplication tool for this json point!
+
