@@ -24,22 +24,23 @@ After running this json collection completely, you can get:
 -------------------------------------------------- ------------------------------
 1. A number of materials dropped by all monsters in Tivat Continent
 2. Several plant ingredients + breakthrough material + crystal butterfly
-3.500+ animal meat
-4.500+ poultry meat
-5.300~400 crystal ore + amethyst block
+3. 500+ animal meat
+4. 500+ poultry meat
+5. 300~400 crystal ore + amethyst block
 6. 100+ holy relic dog food
-More than 7.25w Mora
+7. More than 7.25w Mora
 ...wait wait wait
 
 
 About the cfg configuration of this json:
 -------------------------------------------------- ------------------------------
-invincible mode
-Monster attachment ≤ 40m (same as auto pickup range)
-Auto Destroy Objects - 10m - Tick Minerals and Plants
-Automatic pickup ≤ 40m-interval 200+130
+1. invincible mode
+2. Monster attachment ≤ 40m (same as auto pickup range)
+3. Auto Destroy Objects - 10m - Tick Minerals and Plants
+4. Automatic pickup ≤ 40m-interval 200+130
              - Tick the treasure chest + investigation point
-Killing Aura - Instant Death Mode
+5. Killing Aura - Instant Death Mode
+
 Automatic transmission - the interval is 12~20s
 
 
@@ -69,7 +70,7 @@ There are a total of 150 points for holy relics, which are divided into 3 days t
 Note: If you encounter problems, or empty TP points, please find @持青伞#6764 in the discord group for feedback or give feedback in the qq group 1056308869
 
 
-[Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
+## [Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
 
 
 Thanks to @Xcating#6804 for his help with this json point!
