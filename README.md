@@ -1,81 +1,88 @@
 # Teyvat_TP_Json
 
- Click on the star collection on the right to make it easier to find, thank you ~ 
+本json说明：
+共3个json合集，轮替使用。
+```
+第一天使用Teyvat_TP_Day1，
 
-###
+第二天使用Teyvat_TP_Day2，
 
-First of all, when you use this json collection, you should know the concept of this json collection:
-### Our goal is 9999 supplies!
+第三天使用Teyvat_TP_Day3，
 
-This json description:
-A total of 3 json collections are used in rotation.
-First day using teleports1,
-The next day using teleports2,
-The third day using teleports3,
-The fourth day using teleports1....
-cycle like this
-More conveniently, you can decompress this json collection to the file directory of akebi. When you need to use a certain tp package, you only need to modify the path for custom transmission and reading.
+第四天使用Teyvat_TP_Day1....
+```
 
-
-The number of this json collection:
-Each collection has a total of 1900+ points, and the average time is about 6 hours, which includes all the materials of the whole Tiwat
-
-After running this json collection completely, you can get:
--------------------------------------------------- ------------------------------
-1. A number of materials dropped by all monsters in Tivat Continent
-2. Several plant ingredients + breakthrough material + crystal butterfly
-3. 500+ animal meat
-4. 500+ poultry meat
-5. 300~400 crystal ore + amethyst block
-6. 100+ holy relic dog food
-7. More than 7.25w Mora
-...wait wait wait
+如此循环
+比较方便的是，你可以将本json合集解压至akebi/korepi的文件目录，当时需要使用某个tp包时，仅需要修改自定义传送读取的路径即可。
 
 
-About the cfg configuration of this json:
--------------------------------------------------- ------------------------------
-1. invincible mode
-2. Monster attachment ≤ 40m (same as auto pickup range)
-3. Auto Destroy Objects - 10m - Tick Minerals and Plants
-4. Automatic pickup ≤ 40m-interval 200+130
-             - Tick the treasure chest + investigation point
-5. Killing Aura - Instant Death Mode
-
-Automatic transmission - the interval is 12~20s
+本json合集的数量：
+每个合集共有1800+点位，平均时间为6个小时左右，其中包含全提瓦特所有物资
 
 
-This json contains the following material:
--------------------------------------------------- ------------------------------
-The following is collected once a day:
-
-Monsters: Sacred Skeletal Beast, Yuan Energy Construct, Fungus Beast, Gilded Brigade, Treasure Bandit, Maid of the Hidden Mirror, Mage Firefly, Hai Chao Ghost, Abyss Mage, King Qiuqiu, Dragon Lizard, Deceitful Flower, Floating Spirit , Slime, Beast Hound, Relic Guard, Relic Mech, Relic Dragon Beast, Debt Dealer, Fools, Slime, Hill Ranger (new in 3.6) a total of 600+ points / once a day
-
-Animals: crystal butterfly, eel, crab, frog, loach, lizard, fish, a total of 300+ points / once a day
-
-
-Plants: white radish, carrot, seaweed, violet melon, lotus pod, mushroom, bird egg, sunset fruit, pine cone, matsutake, star mushroom, rosebush, date palm, horsetail, bamboo shoot, all-phase stone (new in 3.6) 300+ points / once a day
-
--------------------------------------------------- ------------------------------
-The following are divided into 3 days for separate collection due to the refresh time limit:
-
-Specialties/Breakthrough Materials: Sasin Pupa, Holy Gold Bug, Ice Mist Flower, Flame Flower, Red Nian Fruit, Dudu Lotus, Windmill Chrysanthemum, Gogou Fruit, Ghost Pide Insect, Sea Ganoderma Lucidum, Robber Lotus, Snapdragon, Crystal Bone Marrow, Cloud Pepper, Glass Lily, Glass Bag, Luoluomei, Singing Grass, Mufeng Mushroom, Seductive Flower, Paserati, Dandelion, Pure Heart, Cecilia Flower, Coral Pearl, Tree King Holy Body Mushroom, Sky Cloud Grass Fruit, Spicy Fruit, Small Light Grass, Star Conch, Blood Dendrobium, Phantom Light Grass, Moon Lotus, Mourning Spirit Flower (newly added in 3.6) a total of 600+ points are divided into 3 days to collect on average
+--------------------------------------------------------------------------------
+完整跑完本json合集你可以得到：
+1. 提瓦特大陆所有怪物的掉落材料若干
+2. 若干植物食材+突破素材+晶蝶
+3. 500+的兽肉和禽肉
+4. 300~400的水晶矿+紫晶块
+5. 100+的圣遗物狗粮
+6. 25w以上的摩拉
+...等等等
 
 
-Minerals: marcasite, electric crystal, stone amber, night moor stone, crystal ore, amethyst block, a total of 600+ points are divided into 3 days to collect
+
+ 
+--------------------------------------------------------------------------------
+关于本json的cfg配置：
+```
+无敌模式
+怪物吸附 ≤ 40m （和自动拾取范围一样）
+自动摧毁物体-10m-勾选矿物和植物
+自动拾取 ≤ 40m-间隔200+130
+             -勾选宝箱+调查点
+杀戮光环-即死模式
+自动传送-间隔12~20s皆可
+```
+
+本json包含以下材料：
+
+--------------------------------------------------------------------------------
+以下为每天一次采集：
 
 
-There are a total of 150 points for holy relics, which are divided into 3 days to collect, and 50+ points are collected every day (each holy relic point has more than two investigation points, and the daily investigation limit is 100 times)
+怪物：**圣骸兽，元能构装体，蕈兽，镀金旅团，盗宝团，藏镜侍女，萤法师，海乱鬼，深渊法师，丘丘王，龙蜥，骗骗花，漂浮灵，史莱姆，兽境猎犬，遗迹守卫，遗迹机兵，遗迹龙兽，债务处理人，愚人众，史莱姆，丘丘游侠，发条机关，原海异种，隙镜原体，浊水幻灵**一共600+点位/每天一次
+
+动物：**晶蝶，鳗鱼，螃蟹，青蛙，鳅鳅，蜥蜴，鱼肉，冻肉**  一共300+点位/每天一次
 
 
-Note: If you encounter problems, or empty TP points, please find @持青伞#6764 in the discord group for feedback or give feedback in the qq group 1056308869
+植物：**白萝卜，胡萝卜，海草，堇瓜，莲蓬，蘑菇，鸟蛋，日落果，松果，松茸，星蕈，须弥蔷薇，枣椰，马尾，竹笋，久雨莲，泡泡桔，汐藻**共300+点位/每天一次
+
+
+树木：**白梣木，椴木，炬木，悬铃木，香柏木，刺葵木，枫木，桦木，辉木，孔雀木，梦见木，却沙木，松木，业果木**等共140个点位/每天一次采
+
+
+--------------------------------------------------------------------------------
+以下因刷新时间限制，分为了3天分开采集：
+
+特产/突破素材：**纱脂蛹，圣金虫，冰雾花，火焰花，赤念果，嘟嘟莲，风车菊，钩钩果，鬼兜虫，海灵芝，劫波莲，金鱼草，晶化骨髓，绝云椒椒，琉璃百合，琉璃袋，落落梅，鸣草，慕风蘑菇，霓裳花，帕莎拉蒂，蒲公英，清心，塞西莉亚花，珊瑚珍珠，树王圣体菇，天云草实，香辛果，小灯草，星螺，血斛，幽灯草，月莲，悼灵花，苍晶螺，海露花，虹彩蔷薇，柔灯铃**共600+点位平均分成了3天采集
+
+
+矿物：**白铁矿，电气水晶，石珀，夜泊石，水晶矿，紫晶块，万相石，萃凝晶**(3.6新增)共600+点位平均分成了3天采集
+
+
+圣遗物一共150个点位，分为了3天采集，每天采集50+个点（每个圣遗物点都有两个以上调查点，每天调查上限为100次）
 
 
 ## [Join the qq group ](https://jq.qq.com/?_wv=1027&k=qCwGe2PS)
 
 
-Thanks to @Xcating#6804 for his help with this json point!
 
-Thanks to @小老弟(dc:honeydot#5793) for his help with this json point!
-
-Thanks to @傻逼#1867 for the help of the deduplication tool for this json point!
+> 在此感谢@Xcating#6804 对本json点位的帮助！
+> 
+> 在此感谢@小老弟(dc:honeydot#5793) 对本json点位的帮助！
+> 
+> 在此感谢@巡刺 对本json合集的帮助
+> 
+> 在此感谢@Apiny 对本json合集的帮助
 
