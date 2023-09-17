@@ -5,6 +5,8 @@
 
 #### 感谢每一个点亮 **☆Star** 人~
 
+### 如果你有任何的意见或者建议，欢迎 [点击这里](https://github.com/chiqingsan/Teyvat_TP_Json/issues/new) ，进行反馈~
+
 
 本json说明：
 共3个json合集，轮替使用。
