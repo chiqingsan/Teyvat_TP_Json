@@ -1,11 +1,7 @@
-###
+### Teyvat TP Json
 
 首先，当你使用本json合集时，应知晓本json合集的理念：
 ###我们的目标是物资9999！
-
-使用教程：https://wxu9zrl4o6n.feishu.cn/docx/S4lfddNhfoBfR9x46GRcP2nNnxf#P2aQdUGbhoe7vXxrFBdcvpMMnef
-使用教程：https://wxu9zrl4o6n.feishu.cn/docx/S4lfddNhfoBfR9x46GRcP2nNnxf#P2aQdUGbhoe7vXxrFBdcvpMMnef
-使用教程：https://wxu9zrl4o6n.feishu.cn/docx/S4lfddNhfoBfR9x46GRcP2nNnxf#P2aQdUGbhoe7vXxrFBdcvpMMnef
 
 
 本json说明：
@@ -98,8 +94,8 @@
 
 
 
-注：如果遇到问题，或者空TP点，请在discord群组内找@持青伞#3121进行反馈或者在qq群 1056308869 进行反馈
-QQ群：https://jq.qq.com/?_wv=1027&k=HmWP28B7
+注：如果遇到问题，或者空TP点，请在discord群组内找@持青伞#3121进行反馈
+
 
 
 注：如有其他疑问，请在 群内/discord 内联系 @持青伞
