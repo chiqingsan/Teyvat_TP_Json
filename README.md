@@ -1,4 +1,4 @@
-### Teyvat TP Json
+# Teyvat TP Json
 
 首先，当你使用本json合集时，应知晓本json合集的理念：
 ###我们的目标是物资9999！
